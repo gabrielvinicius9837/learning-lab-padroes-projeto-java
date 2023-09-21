@@ -1,7 +1,7 @@
 package one.digitalinnovation.gof.singleton;
 
 /**
- * Singleton "preguiçoso".
+ * Singleton "preguiï¿½oso".
  * 
  * @author falvojr
  */
@@ -20,3 +20,4 @@ public class SingletonLazy {
 		return instancia;
 	}
 }
+

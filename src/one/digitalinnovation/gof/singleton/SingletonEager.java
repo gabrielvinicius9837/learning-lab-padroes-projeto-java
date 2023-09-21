@@ -17,3 +17,5 @@ public class SingletonEager {
 		return instancia;
 	}
 }
+
+// parecido com lazyholder

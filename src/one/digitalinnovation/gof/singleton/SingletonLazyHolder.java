@@ -21,3 +21,5 @@ public class SingletonLazyHolder {
 		return InstanceHolder.instancia;
 	}
 }
+
+// Mais otimizado pra utilizacao (boas praticas)
